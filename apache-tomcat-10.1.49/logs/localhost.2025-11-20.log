@@ -1,0 +1,1541 @@
+20-Nov-2025 16:15:56.398 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 16:15:56.398 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 16:15:56.398 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@64712be')
+20-Nov-2025 16:16:53.430 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 16:16:53.430 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 16:16:53.432 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@11acdc30')
+20-Nov-2025 16:28:49.033 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 16:28:49.033 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 16:28:49.037 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@299266e2')
+20-Nov-2025 16:32:43.575 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 16:32:43.575 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 16:32:43.578 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@22825e1e')
+20-Nov-2025 16:44:09.654 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+20-Nov-2025 16:44:09.654 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+20-Nov-2025 16:44:16.855 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 16:44:16.855 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 16:44:16.858 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@12417468')
+20-Nov-2025 16:48:21.066 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 16:48:21.066 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 16:48:21.070 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@ea7a4c3')
+20-Nov-2025 16:50:54.536 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 16:50:54.537 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 16:50:54.540 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@335f5c69')
+20-Nov-2025 16:53:45.443 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 16:53:45.444 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 16:53:45.447 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@31723307')
+20-Nov-2025 16:59:21.357 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 16:59:21.357 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 16:59:21.361 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@ea7a4c3')
+20-Nov-2025 17:04:06.257 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 17:04:06.257 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 17:04:06.257 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6dca31eb')
+20-Nov-2025 17:08:32.266 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 17:08:32.266 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 17:08:32.266 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@747835f5')
+20-Nov-2025 17:12:08.059 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 17:12:08.059 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 17:12:08.063 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@22825e1e')
+20-Nov-2025 17:13:38.029 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 17:13:38.029 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 17:13:38.042 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@335f5c69')
+20-Nov-2025 17:18:36.948 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 17:18:36.948 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 17:18:36.957 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4b56b031')
+20-Nov-2025 17:18:40.413 SEVERE [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationDispatcher.invoke Servlet.service() for servlet [jsp] threw exception
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert ">" to complete ReferenceType1
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+a cannot be resolved to a type
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Constructor call must be the first statement in a constructor
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [25] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "else", finally expected
+22:                     <i class="bi bi-arrow-left"></i> Back to Dashboard
+23:         </a>
+24: 
+25:     <%
+26:         } else {
+27:             for (com.cyberlearn.model.Course c : list) {
+28:     %>
+
+
+An error occurred at line: [42] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "catch", Identifier expected
+39: 
+40: </div>
+41: 
+42: <%@ include file="/includes/footer.jsp" %>
+
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [248] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [249] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [251] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [257] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [258] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:553)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:339)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:325)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:586)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:368)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:350)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:301)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:610)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:392)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:321)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:266)
+		at com.cyberlearn.servlet.CourseServlet.doGet(CourseServlet.java:28)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:654)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1774)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+20-Nov-2025 17:18:40.413 SEVERE [http-nio-8080-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [com.cyberlearn.servlet.CourseServlet] in context with path [/CyberLearn] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert ">" to complete ReferenceType1
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+a cannot be resolved to a type
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Constructor call must be the first statement in a constructor
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [25] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "else", finally expected
+22:                     <i class="bi bi-arrow-left"></i> Back to Dashboard
+23:         </a>
+24: 
+25:     <%
+26:         } else {
+27:             for (com.cyberlearn.model.Course c : list) {
+28:     %>
+
+
+An error occurred at line: [42] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "catch", Identifier expected
+39: 
+40: </div>
+41: 
+42: <%@ include file="/includes/footer.jsp" %>
+
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [248] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [249] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [251] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [257] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [258] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert ">" to complete ReferenceType1
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+a cannot be resolved to a type
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Constructor call must be the first statement in a constructor
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [25] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "else", finally expected
+22:                     <i class="bi bi-arrow-left"></i> Back to Dashboard
+23:         </a>
+24: 
+25:     <%
+26:         } else {
+27:             for (com.cyberlearn.model.Course c : list) {
+28:     %>
+
+
+An error occurred at line: [42] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "catch", Identifier expected
+39: 
+40: </div>
+41: 
+42: <%@ include file="/includes/footer.jsp" %>
+
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [248] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [249] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [251] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [257] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [258] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:553)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:339)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:325)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:586)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:368)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:350)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:301)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:610)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:392)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:321)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:266)
+		at com.cyberlearn.servlet.CourseServlet.doGet(CourseServlet.java:28)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:654)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1774)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+20-Nov-2025 17:18:51.306 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationDispatcher.invoke Servlet.service() for servlet [jsp] threw exception
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert ">" to complete ReferenceType1
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+a cannot be resolved to a type
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Constructor call must be the first statement in a constructor
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [25] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "else", finally expected
+22:                     <i class="bi bi-arrow-left"></i> Back to Dashboard
+23:         </a>
+24: 
+25:     <%
+26:         } else {
+27:             for (com.cyberlearn.model.Course c : list) {
+28:     %>
+
+
+An error occurred at line: [42] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "catch", Identifier expected
+39: 
+40: </div>
+41: 
+42: <%@ include file="/includes/footer.jsp" %>
+
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [248] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [249] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [251] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [257] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [258] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:553)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:339)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:325)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:586)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:368)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:350)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:301)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:610)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:392)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:321)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:266)
+		at com.cyberlearn.servlet.CourseServlet.doGet(CourseServlet.java:28)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:654)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1774)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+20-Nov-2025 17:18:51.306 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [com.cyberlearn.servlet.CourseServlet] in context with path [/CyberLearn] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert ">" to complete ReferenceType1
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+a cannot be resolved to a type
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Constructor call must be the first statement in a constructor
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [25] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "else", finally expected
+22:                     <i class="bi bi-arrow-left"></i> Back to Dashboard
+23:         </a>
+24: 
+25:     <%
+26:         } else {
+27:             for (com.cyberlearn.model.Course c : list) {
+28:     %>
+
+
+An error occurred at line: [42] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "catch", Identifier expected
+39: 
+40: </div>
+41: 
+42: <%@ include file="/includes/footer.jsp" %>
+
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [248] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [249] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [251] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [257] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [258] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert ">" to complete ReferenceType1
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+a cannot be resolved to a type
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Constructor call must be the first statement in a constructor
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [25] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "else", finally expected
+22:                     <i class="bi bi-arrow-left"></i> Back to Dashboard
+23:         </a>
+24: 
+25:     <%
+26:         } else {
+27:             for (com.cyberlearn.model.Course c : list) {
+28:     %>
+
+
+An error occurred at line: [42] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "catch", Identifier expected
+39: 
+40: </div>
+41: 
+42: <%@ include file="/includes/footer.jsp" %>
+
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [248] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [249] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [251] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [257] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [258] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:553)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:339)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:325)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:586)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:368)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:350)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:301)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:610)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:392)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:321)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:266)
+		at com.cyberlearn.servlet.CourseServlet.doGet(CourseServlet.java:28)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:654)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1774)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+20-Nov-2025 17:19:10.055 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationDispatcher.invoke Servlet.service() for servlet [jsp] threw exception
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert ">" to complete ReferenceType1
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+a cannot be resolved to a type
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Constructor call must be the first statement in a constructor
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [25] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "else", finally expected
+22:                     <i class="bi bi-arrow-left"></i> Back to Dashboard
+23:         </a>
+24: 
+25:     <%
+26:         } else {
+27:             for (com.cyberlearn.model.Course c : list) {
+28:     %>
+
+
+An error occurred at line: [42] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "catch", Identifier expected
+39: 
+40: </div>
+41: 
+42: <%@ include file="/includes/footer.jsp" %>
+
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [248] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [249] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [251] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [257] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [258] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:553)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:339)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:325)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:586)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:368)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:350)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:301)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:610)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:392)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:321)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:266)
+		at com.cyberlearn.servlet.CourseServlet.doGet(CourseServlet.java:28)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:654)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1774)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+20-Nov-2025 17:19:10.055 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [com.cyberlearn.servlet.CourseServlet] in context with path [/CyberLearn] threw exception [org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert ">" to complete ReferenceType1
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+a cannot be resolved to a type
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Constructor call must be the first statement in a constructor
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [25] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "else", finally expected
+22:                     <i class="bi bi-arrow-left"></i> Back to Dashboard
+23:         </a>
+24: 
+25:     <%
+26:         } else {
+27:             for (com.cyberlearn.model.Course c : list) {
+28:     %>
+
+
+An error occurred at line: [42] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "catch", Identifier expected
+39: 
+40: </div>
+41: 
+42: <%@ include file="/includes/footer.jsp" %>
+
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [248] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [249] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [251] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [257] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [258] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:] with root cause
+	org.apache.jasper.JasperException: Unable to compile class for JSP: 
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert ">" to complete ReferenceType1
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Syntax error, insert "super ( ) ;" to complete Statement
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+a cannot be resolved to a type
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+Constructor call must be the first statement in a constructor
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [11] in the jsp file: [/courses/courses.jsp]
+String literal is not properly closed by a double-quote
+8:         java.util.List<com.cyberlearn.model.Course> list =
+9:             (java.util.List<com.cyberlearn.model.Course>) request.getAttribute("courseList");
+10: 
+11:             <a href="<%= request.getContextPath() %>/user/dashboard.jsp" class="btn btn-link">
+12:                                         <i class="bi bi-arrow-left"></i> Back to Dashboard
+13:             </a>
+14: 
+
+
+An error occurred at line: [25] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "else", finally expected
+22:                     <i class="bi bi-arrow-left"></i> Back to Dashboard
+23:         </a>
+24: 
+25:     <%
+26:         } else {
+27:             for (com.cyberlearn.model.Course c : list) {
+28:     %>
+
+
+An error occurred at line: [42] in the jsp file: [/courses/courses.jsp]
+Syntax error on token "catch", Identifier expected
+39: 
+40: </div>
+41: 
+42: <%@ include file="/includes/footer.jsp" %>
+
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [245] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved to a variable
+
+An error occurred at line: [246] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [248] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+response cannot be resolved
+
+An error occurred at line: [249] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [251] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+out cannot be resolved
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+An error occurred at line: [254] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved
+
+An error occurred at line: [257] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+Syntax error on token "finally", { expected
+
+An error occurred at line: [258] in the generated java file: [C:\apache-tomcat-10.1.49\work\Catalina\localhost\CyberLearn\org\apache\jsp\courses\courses_jsp.java]
+_jspx_page_context cannot be resolved to a variable
+
+Stacktrace:
+		at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:70)
+		at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:189)
+		at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:553)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:367)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:339)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:325)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:586)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:368)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:350)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:301)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:610)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:392)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:321)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:266)
+		at com.cyberlearn.servlet.CourseServlet.doGet(CourseServlet.java:28)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+		at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:162)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:138)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:654)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1774)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1575)
+20-Nov-2025 17:22:01.771 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 17:22:01.772 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 17:22:01.776 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@9b47400')
+20-Nov-2025 17:24:49.465 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 17:24:49.465 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 17:24:49.465 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6dca31eb')
+20-Nov-2025 17:28:04.567 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 17:28:04.575 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 17:28:04.576 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@747835f5')
+20-Nov-2025 17:32:07.757 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 17:32:07.757 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 17:32:07.762 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4cdba2ed')
+20-Nov-2025 17:35:27.239 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 17:35:27.239 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 17:35:27.254 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@ea7a4c3')
+20-Nov-2025 17:36:18.829 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 17:36:18.829 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 17:36:18.834 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6c977dcf')
+20-Nov-2025 18:26:42.710 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 18:26:42.710 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 18:26:42.718 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6af5b246')
+20-Nov-2025 18:35:23.859 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 18:35:23.859 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 18:35:23.867 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6dca31eb')
+20-Nov-2025 18:40:44.201 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 18:40:44.201 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 18:40:44.210 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@335f5c69')
+20-Nov-2025 18:47:32.786 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 18:47:32.786 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 18:47:32.794 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4a058df8')
+20-Nov-2025 19:02:56.787 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 19:02:56.787 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 19:02:56.795 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2e1eb85f')
+20-Nov-2025 19:07:12.658 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+20-Nov-2025 19:07:12.658 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+20-Nov-2025 19:07:12.665 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@5c059a68')
