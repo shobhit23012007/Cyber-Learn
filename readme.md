@@ -1,16 +1,10 @@
-Boss, neeche **BEAST-LEVEL, super-attractive, icon-rich, animated-feel** wala **README v2.0** de raha hoon — professional GitHub open-source project vibe ke saath.
-Aap seedha isko copy–paste karke apne repo me rakh sakte ho.
-(*Main animation ke liye GitHub-safe emojis, SVG badges, and horizontal motion-feel layouts use kar raha hoon.*)
 
----
 
 # 🚀 **CyberLearn Platform — Modern Architecture Migration**
 
 *A Next-Gen Ethical Hacking & Cybersecurity Learning Platform*
 
 <div align="center">
-
-<img src="./main/webapp/assets/image/logo.jpg" width="220" />
 
 ### ⚡ Complete Migration from Legacy JSP/Servlets → **Spring Boot 3 + React + Docker**
 
