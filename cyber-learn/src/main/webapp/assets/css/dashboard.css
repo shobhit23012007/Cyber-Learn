@@ -1,0 +1,156 @@
+/* dashboard.css - modern dark theme for CyberLearn */
+/* Import Bootstrap utilities remain in header.jsp */
+
+:root{
+  --bg:#0f1724;
+  --panel:#0f1728;
+  --muted:#9aa6b2;
+  --accent:#2dd4bf; /* teal */
+  --accent-2:#60a5fa; /* blue */
+  --card:#0b1220;
+  --glass: rgba(255,255,255,0.03);
+  --success:#22c55e;
+  --warning:#f59e0b;
+  --danger:#ef4444;
+}
+
+body {
+  background: linear-gradient(180deg, #071224 0%, #07182a 100%);
+  color: #e6eef6;
+  font-family: 'Segoe UI', Roboto, system-ui, -apple-system, 'Helvetica Neue', Arial;
+  margin:0;
+  padding:0;
+}
+
+/* container card */
+.card-dark {
+  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+  border: 1px solid rgba(255,255,255,0.03);
+  border-radius: 12px;
+  padding: 20px;
+  color: #e6eef6;
+  box-shadow: 0 6px 18px rgba(2,6,23,0.6);
+}
+
+/* sidebar */
+.app-sidebar {
+  width: 220px;
+  background: linear-gradient(180deg,#071224,#07192d);
+  border-right: 1px solid rgba(255,255,255,0.03);
+  min-height:100vh;
+  padding: 28px 18px;
+  position: fixed;
+}
+.app-sidebar .logo {
+  display:flex;
+  align-items:center;
+  gap:12px;
+  margin-bottom:18px;
+}
+.app-sidebar .logo img { width:44px; height:44px; border-radius:10px; }
+
+/* nav */
+.app-nav {
+  margin-top:18px;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+}
+.app-nav a {
+  color:var(--muted);
+  padding:10px 12px;
+  border-radius:8px;
+  display:flex;
+  align-items:center;
+  gap:12px;
+  text-decoration:none;
+}
+.app-nav a:hover, .app-nav a.active {
+  background: rgba(255,255,255,0.03);
+  color: #fff;
+}
+
+/* main area */
+.main-area {
+  margin-left: 260px;
+  padding: 28px;
+}
+
+/* top header */
+.topbar {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:12px;
+  margin-bottom:20px;
+}
+
+/* big welcome card */
+.welcome {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:18px;
+  padding:26px;
+  border-radius:12px;
+  background: linear-gradient(90deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+}
+
+/* progress item */
+.progress-wrap {
+  margin-top:10px;
+}
+.progress-bar-custom {
+  height:10px;
+  border-radius:8px;
+  background: rgba(255,255,255,0.06);
+  overflow:hidden;
+}
+.progress-bar-fill {
+  height:100%;
+  border-radius:8px;
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+}
+
+/* small card grid */
+.grid-2 {
+  display:grid;
+  grid-template-columns: 1fr 350px;
+  gap:18px;
+  margin-top:18px;
+}
+
+/* forum list */
+.forum-card .post {
+  padding:12px;
+  border-radius:8px;
+  display:flex; gap:12px; align-items:flex-start;
+  border-bottom:1px solid rgba(255,255,255,0.02);
+}
+.forum-card .post:last-child{ border-bottom:none; }
+
+/* admin page tweaks */
+.form-control-dark {
+  background: transparent;
+  border:1px solid rgba(255,255,255,0.06);
+  color:#e6eef6;
+  border-radius:8px;
+  padding:12px;
+}
+
+/* buttons */
+.btn-teal {
+  background: var(--accent);
+  color: #062022;
+  border-radius:8px;
+  padding:10px 16px;
+  border:none;
+}
+.btn-teal:hover { opacity:0.95; transform: translateY(-1px); }
+
+/* responsive */
+@media (max-width: 900px){
+  .grid-2 { grid-template-columns: 1fr; }
+  .app-sidebar { position:relative; width:100%; display:flex; flex-direction:row; gap:12px; padding:12px; }
+  .main-area { margin-left:0; padding:12px; }
+}

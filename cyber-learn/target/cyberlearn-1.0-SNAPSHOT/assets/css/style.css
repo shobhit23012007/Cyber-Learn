@@ -1,0 +1,90 @@
+/* Global */
+body {
+    background-color: #0f172a;
+    color: #e2e8f0;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+/* Top Navbar */
+.navbar {
+    background: #1e293b;
+    padding: 15px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.nav-logo img {
+    width: 45px;
+    height: 45px;
+    border-radius: 6px;
+}
+
+.nav-logo h2 {
+    font-size: 24px;
+    color: #38bdf8;
+    margin: 0;
+}
+
+.nav-links a {
+    color: #e2e8f0;
+    margin-left: 25px;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.nav-links a:hover {
+    color: #38bdf8;
+}
+
+/* Home Section Card */
+.hero {
+    background: #1e293b;
+    margin: 30px auto;
+    width: 90%;
+    padding: 40px;
+    border-radius: 14px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+
+.hero h1 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 17px;
+    color: #94a3b8;
+}
+
+.btn-primary {
+    margin-top: 20px;
+    background: #38bdf8;
+    color: black;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    font-size: 17px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-primary:hover {
+    background: #0ea5e9;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 20px;
+    color: #64748b;
+}
